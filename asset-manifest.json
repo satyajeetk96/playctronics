@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/playctronics/static/css/main.a617e044.chunk.css",
+    "main.js": "/playctronics/static/js/main.2107f03b.chunk.js",
+    "main.js.map": "/playctronics/static/js/main.2107f03b.chunk.js.map",
+    "runtime-main.js": "/playctronics/static/js/runtime-main.eff56734.js",
+    "runtime-main.js.map": "/playctronics/static/js/runtime-main.eff56734.js.map",
+    "static/js/2.8847b359.chunk.js": "/playctronics/static/js/2.8847b359.chunk.js",
+    "static/js/2.8847b359.chunk.js.map": "/playctronics/static/js/2.8847b359.chunk.js.map",
+    "static/js/3.264aef46.chunk.js": "/playctronics/static/js/3.264aef46.chunk.js",
+    "static/js/3.264aef46.chunk.js.map": "/playctronics/static/js/3.264aef46.chunk.js.map",
+    "index.html": "/playctronics/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/playctronics/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8847b359.chunk.js.LICENSE.txt": "/playctronics/static/js/2.8847b359.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/playctronics/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eff56734.js",
+    "static/js/2.8847b359.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.2107f03b.chunk.js"
+  ]
+}
